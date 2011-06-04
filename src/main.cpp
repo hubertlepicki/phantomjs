@@ -28,6 +28,17 @@
   THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
+#include <QtPlugin>
+/*j
+Q_IMPORT_PLUGIN(qgif)
+Q_IMPORT_PLUGIN(qjpeg)
+Q_IMPORT_PLUGIN(qico)
+Q_IMPORT_PLUGIN(qpng)
+Q_IMPORT_PLUGIN(qtiff)
+Q_IMPORT_PLUGIN(qwebkit)
+*/
+
+
 #include "consts.h"
 #include "utils.h"
 #include "phantom.h"
